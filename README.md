@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UlianaDzigil
+- 👋 Hi everyone, my name is Uliana
 - 👩‍💻 I’m interested in software development, especially in Java.
 - 🌱 I’m currently studying at the Kyiv Polytechnic Institute, Ukraine.
 - 🤝 I would be glad to collaborate on the project.
